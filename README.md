@@ -5,10 +5,10 @@
 ## [Matlab](https://github.com/Happykelee/Machine-Learning/tree/master/Matlab)
 
 **来源于Andrew Ng在Coursera上的课程!**
-  
+
 ## [R](https://github.com/Happykelee/Machine-Learning/tree/master/R)
 
-[返回R学习笔记主页!<-](https://github.com/Happykelee/the-Study-of-R)
+[>>返回R学习笔记主页!](https://github.com/Happykelee/the-Study-of-R)
 
 **参考资料**
 * 《R语言实践-机器学习与数据分析》 左飞（著）
